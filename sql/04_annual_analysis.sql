@@ -13,7 +13,7 @@ WITH yearly_profit AS (
 )
 
 SELECT year,
-	total_profit
+	total_profit,
 	previous_year_profit,
 	(total_profit - previous_year_profit)/previous_year_profit * 100 AS percentage_change
 FROM yearly_with_previous
