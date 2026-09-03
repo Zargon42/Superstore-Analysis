@@ -1,0 +1,61 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.10",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "MqKX",
+      "code_hash": "c1b7b1d18b5ff786fb8c4d2ef4e0138a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "5a44edd5a0dd7c2c24fcdda8f49491d4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aqxE",
+      "code_hash": "8ceea61ac689c35a3b83000a298261a7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='aqxE-0' random-id='11c81a51-378f-8c00-250c-26920ea160c0'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Discount&#92;&quot;:0.0,&#92;&quot;profit_margin&#92;&quot;:0.189992449722012},{&#92;&quot;Discount&#92;&quot;:0.0,&#92;&quot;profit_margin&#92;&quot;:0.139976005966084},{&#92;&quot;Discount&#92;&quot;:0.0,&#92;&quot;profit_margin&#92;&quot;:0.139979370183848},{&#92;&quot;Discount&#92;&quot;:0.2,&#92;&quot;profit_margin&#92;&quot;:0.249940659862331},{&#92;&quot;Discount&#92;&quot;:0.0,&#92;&quot;profit_margin&#92;&quot;:0.419995802140908}]&quot;' data-total-rows='5' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Discount&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;profit_margin&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "JtKH",
+      "code_hash": "62bd62ed9e144208207e73006abaa9b7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='JtKH-0' random-id='f30feb6e-29d9-d7f2-fc0c-ab9d564b3752'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;&#92;&quot;:&#92;&quot;Discount&#92;&quot;,&#92;&quot;Discount&#92;&quot;:1.0,&#92;&quot;profit_margin&#92;&quot;:-0.8196365465733946},{&#92;&quot;&#92;&quot;:&#92;&quot;profit_margin&#92;&quot;,&#92;&quot;Discount&#92;&quot;:-0.8196365465733946,&#92;&quot;profit_margin&#92;&quot;:1.0}]&quot;' data-total-rows='2' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Discount&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;profit_margin&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
