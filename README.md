@@ -4,7 +4,8 @@ Portfolio project using SQL (SQLite) and Power BI to analyse the [Sample Superst
 
 ## Dashboard
 
-[dashboard screenshot](powerbi/Superstore_dashboard.png)
+![dashboard screenshot](powerbi/Superstore_dashboard.png)
+
 Final dashboard showing revenue by sub-category, profit by geographical region, profit over time, and monthly profit per year, overall profit per sub-category. The profit by country chart features drill down functionality to investigate geographic trends at the state and city level. A slicer is also included for filtering by year.
 
 ## Business Questions
