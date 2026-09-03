@@ -59,7 +59,27 @@ Brief Correlation analysis between discount and profits among the table sub-cate
 
 ## Project Structure
 ```
-superstore-analysis/
+Superstore-Analysis/
+├── data/
+│   └── README.md
+├── powerbi/
+│   ├── README.md
+│   ├── Superstore_dashboard.pbix
+│   ├── Superstore_dashboard.pdf
+│   └── Superstore_dashboard.png
+├── python/
+|   ├── README.md 
+│   └── Correlation_analysis.py
+├── sql/
+│   ├── 01_data_cleaning.sql
+│   ├── 02_revenue_analysis.sql
+│   ├── 03_geography_analysis.sql
+│   ├── 04_annual_analysis.sql
+│   ├── 05_monthly_analysis.sql
+│   ├── 06_loss_analysis.sql
+│   └── 07_supplementary_analysis.sql
+├── .gitattributes
+└── README.mdsuperstore-analysis/
 └── README.md
 ```
 
