@@ -1,5 +1,7 @@
 # Superstore Sales & Profit Analysis
 
+[Italiano](README.it.md)
+
 Portfolio project using SQL (SQLite) and Power BI to analyse the [Sample Superstore Dataset](https://powerbidocs.com/2019/11/28/power-bi-sample-data-set-for-practice/). The goal was to take raw sales data and convert it into clear insights, answering business questions.
 
 ## Dashboard
